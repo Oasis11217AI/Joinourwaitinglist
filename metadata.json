@@ -1,5 +1,6 @@
 {
   "name": "Waiting List Landing Page",
   "description": "A landing page to collect email addresses for a waiting list, displaying a counter for people ahead.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "prompt": ""
 }
